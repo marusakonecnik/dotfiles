@@ -1,0 +1,15 @@
+user: 252
+group: 252
+permission: 245
+date: 110
+size: 151
+inode: 244
+links: 244
+blocks: 244
+
+# Change directory colors from blue to lilac/purple
+directory: "38;5;147"  # Light lilac
+symlink: "38;5;117"  # Soft blue
+executable: "38;5;214"  # Soft orange
+special: "38;5;186"  # Warm yellow
+
